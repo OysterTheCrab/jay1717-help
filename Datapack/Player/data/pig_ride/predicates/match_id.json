@@ -2,14 +2,14 @@
     "condition": "minecraft:entity_scores",
     "entity": "this",
     "scores": {
-      "otcInteract": {
+      "pigrideId": {
         "min": {
           "type": "minecraft:score",
           "target": {
             "type": "minecraft:fixed",
             "name": "$current"
           },
-          "score": "otcInteract"
+          "score": "pigrideId"
         },
         "max": {
           "type": "minecraft:score",
@@ -17,7 +17,7 @@
             "type": "minecraft:fixed",
             "name": "$current"
           },
-          "score": "otcInteract"
+          "score": "pigrideId"
         }
       }
     }

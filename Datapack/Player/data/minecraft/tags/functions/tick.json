@@ -1,6 +1,6 @@
 {
     "replace": false,
     "values": [
-        "pig_ride:load"
+        "pig_ride:tick"
     ]
 }
